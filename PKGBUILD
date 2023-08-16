@@ -61,7 +61,7 @@ optdepends=(
 )
 conflicts=('manjaro-hyprland-settings-git')
 provides=('manjaro-desktop-settings')
-_sourcemd5=f4d3e0b504080e6444b50c5a048c3903
+_sourcemd5=190300979cbf2c95319497ad0d290edf
 source=(
     "$pkgname-$pkgver.tar.gz::${url}/archive/${pkgver}.tar.gz"
     "https://github.com/arcolinux/arcolinux-on-the-road/raw/cfbcc902b9520cc4ff73584dd80f34c54a158c75/root/usr/local/bin/skel"
