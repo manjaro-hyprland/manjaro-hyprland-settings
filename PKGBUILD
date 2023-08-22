@@ -1,7 +1,7 @@
 # Maintainer: Jonas Strassel <info@jonas-strassel.de>
 
 pkgname=manjaro-hyprland-settings
-pkgver=0.0.4
+pkgver=0.1.0
 pkgrel=34
 arch=('any')
 _pkgbase=desktop-settings
@@ -61,7 +61,7 @@ optdepends=(
 )
 conflicts=('manjaro-hyprland-settings-git')
 provides=('manjaro-desktop-settings')
-_sourcemd5=048909e6ff251559d2781829e110cd09
+_sourcemd5=b8f9610962f6977d31328e439d80cec1
 source=(
     "$pkgname-$pkgver.tar.gz::${url}/archive/${pkgver}.tar.gz"
     "https://github.com/arcolinux/arcolinux-on-the-road/raw/cfbcc902b9520cc4ff73584dd80f34c54a158c75/root/usr/local/bin/skel"
