@@ -1,1 +1,1 @@
-# Manjaro-hyprland settings
+# Manjaro-hyprland-settings
